@@ -1,0 +1,10 @@
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\bin\Debug\Lab4Form.exe.config
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\bin\Debug\Lab4Form.exe
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\bin\Debug\Lab4Form.pdb
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Form.csproj.AssemblyReference.cache
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Form.Properties.Resources.resources
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Form.csproj.GenerateResource.cache
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Form.csproj.CoreCompileInputs.cache
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Form.exe
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Form.pdb
+C:\Users\vorap\source\repos\Lab1\Lab1\Lab4Form\obj\Debug\Lab4Forms.Form1.resources
